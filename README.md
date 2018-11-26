@@ -8,4 +8,5 @@ Decodes it and prints to the standard output
 ## Usage
 
 First : `chmod u+x decode_steven.py`
-Then either `./decode_steven.py` or `python3 ./decode_steven.py`
+
+Then either `python3 ./decode_steven.py`, `python ./decode_steven.py` or just `./decode_steven.py`
